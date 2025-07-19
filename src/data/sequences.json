@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Morning Energy Flow",
+    "description": "A gentle sequence to awaken the body and energize your mind.",
+    "level": "Beginner",
+    "tags": [ "morning", "energy", "gentle" ],
+    "asanas": [
+      {
+        "sanskritName": "Tadasana",
+        "englishName": "Mountain Pose"
+      },
+      {
+        "sanskritName": "Uttanasana",
+        "englishName": "Standing Forward Bend"
+      },
+      {
+        "sanskritName": "Bhujangasana",
+        "englishName": "Cobra Pose"
+      }
+    ]
+  },
+  {
+    "title": "Evening Relaxation Series",
+    "description": "Unwind and restore your body after a long day.",
+    "level": "All Levels",
+    "tags": [ "evening", "restorative", "relaxation" ],
+    "asanas": [
+      {
+        "sanskritName": "Balasana",
+        "englishName": "Child's Pose"
+      },
+      {
+        "sanskritName": "Viparita Karani",
+        "englishName": "Legs-Up-the-Wall Pose"
+      },
+      {
+        "sanskritName": "Savasana",
+        "englishName": "Corpse Pose"
+      }
+    ]
+  }
+]

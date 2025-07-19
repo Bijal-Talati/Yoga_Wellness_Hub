@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: Smooth scroll and custom base typography */
+html {
+  scroll-behavior: smooth;
+  font-family: 'Open Sans', sans-serif;
+  background-color: theme('colors.offwhite');
+  color: theme('colors.accenttext');
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Lora', serif;
+}
+
+a {
+  @apply text-accenttext hover:underline;
+}

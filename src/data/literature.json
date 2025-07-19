@@ -1,0 +1,49 @@
+[
+  {
+    "bookName": "Hatha Yoga Pradipika",
+    "chapters": [
+      {
+        "title": "Chapter 1: Asana",
+        "summary": "This chapter covers foundational postures in classical hatha yoga..."
+      },
+      {
+        "title": "Chapter 2: Pranayama",
+        "summary": "This chapter elaborates on the importance and methods of breath control..."
+      },
+      {      
+        "title": "Chapter 3: Mudras",
+        "summary": "This chapter elaborates on Mudras..."
+      }
+    ]
+  },
+  {
+    "bookName": "Yoga Sutras of Patanjali",
+    "chapters": [
+      {
+        "title": "Chapter 1: Samadhi Pada",
+        "summary": "This chapter covers Samadhi Pada..."
+      },
+      {
+        "title": "Chapter 2: Sadhana Pada",
+        "summary": "This chapter elaborates Sadhana Pada..."
+      },
+      {      
+        "title": "Chapter 3: Vibhuti Pada",
+        "summary": "This chapter elaborates on Vibhuti Pada..."
+      }
+    ]
+  },
+  {
+    "bookName": "Bhagavad Gita",
+    "chapters": [
+      {
+        "title": "Chapter 1: Arjuna’s Dilemma",
+        "summary": "This chapter sets the stage for the Gita..."
+      },
+      {
+        "title": "Chapter 2: The Path of Knowledge",
+        "summary": "Krishna introduces Sankhya Yoga..."
+      }
+    ]
+  }
+]

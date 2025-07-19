@@ -1,0 +1,26 @@
+[
+  {
+    "title": "5 Reasons to Start Your Yoga Journey Today",
+    "excerpt": "Discover how yoga supports mental clarity, physical health, and emotional balance.",
+    "date": "2024-12-10",
+    "tags": ["beginner", "wellness"],
+    "slug": "start-your-yoga-journey",
+    "image": "/images/blog/yoga-journey.jpg"
+  },
+  {
+    "title": "Balancing the Doshas Through Practice",
+    "excerpt": "Explore Ayurvedic principles and how yoga balances Vata, Pitta, and Kapha.",
+    "date": "2024-11-20",
+    "tags": ["ayurveda", "balance"],
+    "slug": "balancing-the-doshas",
+    "image": "/images/blog/doshas.jpg"
+  },
+  {
+    "title": "Morning Rituals for Yogic Living",
+    "excerpt": "Start your day with intention using time-tested yogic practices and mindfulness techniques.",
+    "date": "2025-01-05",
+    "tags": ["routine", "mindfulness"],
+    "slug": "morning-rituals",
+    "image": "/images/blog/morning-rituals.jpg"
+  }
+]
